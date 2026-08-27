@@ -1,2 +1,4 @@
 .DS_Store
 spark/data/
+*metastore_db*
+*derby.log*
